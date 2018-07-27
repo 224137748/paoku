@@ -1,0 +1,14 @@
+{"file":"runner.png","frames":{
+"advDoor":{"x":752,"y":669,"w":739,"h":531,"offX":1,"offY":0,"sourceW":740,"sourceH":531},
+"advs":{"x":1724,"y":357,"w":165,"h":384,"offX":0,"offY":0,"sourceW":165,"sourceH":384},
+"background":{"x":752,"y":0,"w":751,"h":667,"offX":0,"offY":0,"sourceW":751,"sourceH":667},
+"building":{"x":1505,"y":357,"w":217,"h":321,"offX":0,"offY":0,"sourceW":217,"sourceH":321},
+"car":{"x":1493,"y":680,"w":168,"h":135,"offX":0,"offY":0,"sourceW":168,"sourceH":135},
+"cloud1":{"x":0,"y":796,"w":666,"h":362,"offX":0,"offY":0,"sourceW":666,"sourceH":362},
+"cloud2":{"x":1505,"y":0,"w":510,"h":355,"offX":0,"offY":0,"sourceW":510,"sourceH":355},
+"collision":{"x":1891,"y":491,"w":108,"h":102,"offX":0,"offY":0,"sourceW":108,"sourceH":102},
+"obstacle1":{"x":1891,"y":357,"w":102,"h":132,"offX":0,"offY":0,"sourceW":102,"sourceH":132},
+"obstacle2":{"x":668,"y":898,"w":70,"h":98,"offX":0,"offY":0,"sourceW":70,"sourceH":98},
+"obstacle3":{"x":1995,"y":357,"w":48,"h":43,"offX":0,"offY":0,"sourceW":48,"sourceH":43},
+"sky":{"x":0,"y":0,"w":750,"h":794,"offX":0,"offY":0,"sourceW":750,"sourceH":794},
+"trr":{"x":668,"y":796,"w":78,"h":100,"offX":0,"offY":0,"sourceW":78,"sourceH":100}}}
